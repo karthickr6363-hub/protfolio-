@@ -1,0 +1,27 @@
+# Placeholder Images
+
+This file is a placeholder to ensure the images directory exists. 
+The actual image files should be:
+
+- profile.jpg (400x400px) - Your profile photo
+- about.jpg (600x600px) - About section image  
+- portfolio-1.jpg to portfolio-6.jpg (1200x900px) - Project screenshots
+- client-1.jpg to client-4.jpg (300x300px) - Client photos
+- blog-1.jpg to blog-3.jpg (1200x750px) - Blog thumbnails
+
+Until you add your own images, you can use these placeholder URLs in the HTML:
+https://picsum.photos/400/400?random=1
+https://picsum.photos/600/600?random=2
+https://picsum.photos/1200/900?random=3
+https://picsum.photos/1200/900?random=4
+https://picsum.photos/1200/900?random=5
+https://picsum.photos/1200/900?random=6
+https://picsum.photos/1200/900?random=7
+https://picsum.photos/1200/900?random=8
+https://picsum.photos/300/300?random=9
+https://picsum.photos/300/300?random=10
+https://picsum.photos/300/300?random=11
+https://picsum.photos/300/300?random=12
+https://picsum.photos/1200/750?random=13
+https://picsum.photos/1200/750?random=14
+https://picsum.photos/1200/750?random=15
